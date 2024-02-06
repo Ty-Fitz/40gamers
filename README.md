@@ -3,7 +3,7 @@
 
 *in progress*
 
-You remember when 40rmie LX came out and you said "I don't need that, I have my 60+ percent boards to use for gaming." That was a mistake. 
+I remember when 40rmie LX came out and I said "I don't need that, I have my 60+ percent boards to use for gaming." That was a mistake. 
 
 I used the dimensions from Jake @ P3DStore's acrylic case to make the top case cutouts. I originally made this as close to LX as I could, then have simplified it for easier printing. I would suggest printing the top face down with a textured print bed. 
 
