@@ -3,6 +3,9 @@
 
 *in progress*
 
+![image](https://github.com/Ty-Fitz/P0ormie-lx/assets/127678239/dbbcde0f-d243-4015-a673-091b9b888f9f)
+
+
 I remember when 40rmie LX came out and I said "I don't need that, I have my 60+ percent boards to use for gaming." That was a mistake. 
 
 I used the dimensions from Jake @ P3DStore's acrylic case to make the top case cutouts. I originally made this as close to LX as I could, then have simplified it for easier printing. I would suggest printing the top face down with a textured print bed. 
