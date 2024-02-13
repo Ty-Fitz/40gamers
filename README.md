@@ -15,6 +15,8 @@ This case has holes for 20 m2 style bolts. Not all are required, the case does w
 Accent layer currently just rests on top of the pcb, squished between pcb and top. 
 I used 1x5mm foam gasket tape to mount the pcb and prevent rattling. You can either apply this directly to the pcb, or put on the top and bottom case sections where the pcb touches. 
 
+If there are any compatibility issues with the case, please send a message through discord reelfluffybunny
+
 plans:
 -add recess for laser cut weight
 -revamp mounting for top accent
